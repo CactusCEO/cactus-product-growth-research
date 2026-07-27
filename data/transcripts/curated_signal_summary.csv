@@ -1,0 +1,27 @@
+business_impact_rank,initiative,signal,count_in_30_item_curated_sample,sample_scope
+1,Trust Center 2.0 — Exception-First Document Review,pain,2,Curated traceability sample; not the full transcript corpus
+1,Trust Center 2.0 — Exception-First Document Review,request,1,Curated traceability sample; not the full transcript corpus
+1,Trust Center 2.0 — Exception-First Document Review,trust,3,Curated traceability sample; not the full transcript corpus
+2,Market Intelligence — Evidence-Backed Comps and Memory,pain,2,Curated traceability sample; not the full transcript corpus
+2,Market Intelligence — Evidence-Backed Comps and Memory,request,1,Curated traceability sample; not the full transcript corpus
+2,Market Intelligence — Evidence-Backed Comps and Memory,trust,2,Curated traceability sample; not the full transcript corpus
+3,Instant Deal Screen — Intake-to-Go/No-Go,pain,1,Curated traceability sample; not the full transcript corpus
+3,Instant Deal Screen — Intake-to-Go/No-Go,request,2,Curated traceability sample; not the full transcript corpus
+3,Instant Deal Screen — Intake-to-Go/No-Go,revenue,1,Curated traceability sample; not the full transcript corpus
+4,Model Studio — Formula-Aware Excel Roundtrip,adoption,1,Curated traceability sample; not the full transcript corpus
+4,Model Studio — Formula-Aware Excel Roundtrip,pain,1,Curated traceability sample; not the full transcript corpus
+4,Model Studio — Formula-Aware Excel Roundtrip,request,2,Curated traceability sample; not the full transcript corpus
+5,Guided Activation — First Defensible Deal,adoption,3,Curated traceability sample; not the full transcript corpus
+5,Guided Activation — First Defensible Deal,pain,1,Curated traceability sample; not the full transcript corpus
+5,Guided Activation — First Defensible Deal,request,1,Curated traceability sample; not the full transcript corpus
+6,Scenario Lab — Conversational Sensitivity With Controls,request,3,Curated traceability sample; not the full transcript corpus
+7,"Enterprise Workflow — Integrations, Roles, and Governance",pain,1,Curated traceability sample; not the full transcript corpus
+7,"Enterprise Workflow — Integrations, Roles, and Governance",request,2,Curated traceability sample; not the full transcript corpus
+7,"Enterprise Workflow — Integrations, Roles, and Governance",revenue,3,Curated traceability sample; not the full transcript corpus
+8,"Development Underwriter — Cost, Draw, and Stabilization",adoption,1,Curated traceability sample; not the full transcript corpus
+8,"Development Underwriter — Cost, Draw, and Stabilization",request,3,Curated traceability sample; not the full transcript corpus
+8,"Development Underwriter — Cost, Draw, and Stabilization",revenue,1,Curated traceability sample; not the full transcript corpus
+9,"Decision Packages — Source-Linked IC, Lender, and Client Outputs",pain,2,Curated traceability sample; not the full transcript corpus
+9,"Decision Packages — Source-Linked IC, Lender, and Client Outputs",request,1,Curated traceability sample; not the full transcript corpus
+9,"Decision Packages — Source-Linked IC, Lender, and Client Outputs",revenue,1,Curated traceability sample; not the full transcript corpus
+10,Commercial Lease Intelligence — Multi-Tenant Underwriting,pain,3,Curated traceability sample; not the full transcript corpus

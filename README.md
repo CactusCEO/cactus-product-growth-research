@@ -16,6 +16,23 @@ Cactus product analytics into an outcome-based product strategy and roadmap.
 | Product opportunity portfolio | [Read](docs/cactus-product-opportunity-portfolio.md) | [Download](pdf/cactus-product-opportunity-portfolio.pdf) |
 | Growth and revenue roadmap | [Read](docs/cactus-growth-revenue-roadmap.md) | [Download](pdf/cactus-growth-revenue-roadmap.pdf) |
 
+## Developer data package
+
+The [`data/`](data/) directory contains the structured, machine-readable evidence
+behind the recommendations:
+
+- aggregate Cactus 1.0 and Cactus 2.0 PostHog metrics;
+- PostHog metric definitions and known limitations;
+- transcript-corpus size and scope;
+- transcript opportunity and signal counts;
+- the integrated priority scorecard;
+- the execution roadmap dataset;
+- a data catalog and secure-source access guide.
+
+Start with the [developer data guide](data/README.md). Raw customer transcripts,
+participant identities, private recordings, person-level events, and account-level
+properties are not stored in this public repository.
+
 ## Product-version evidence model
 
 - **Cactus 1.0** is the legacy behavior benchmark: which jobs users repeatedly
