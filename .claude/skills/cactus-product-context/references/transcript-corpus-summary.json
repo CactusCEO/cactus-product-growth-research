@@ -1,0 +1,34 @@
+{
+  "snapshot_generated_at": "2026-07-26T20:01:24.228Z",
+  "source_system": "Sybill",
+  "scope": "Unique externally labeled meetings with clearly internal meetings excluded",
+  "meeting_counts": {
+    "external_rows": 1018,
+    "unique_external": 1009,
+    "duplicate_rows_removed": 9,
+    "excluded_internal": 63,
+    "included_transcripts": 946
+  },
+  "included_transcripts": 946,
+  "total_bytes": 32132523,
+  "total_characters": 32132220,
+  "published_analysis_statistics": {
+    "normalized_speaker_turns": 113688,
+    "total_words_approx": 5720000,
+    "external_speaker_turns": 56829,
+    "external_speaker_words_approx": 2210000,
+    "meetings_excluded_as_likely_internal_or_advisor": 25
+  },
+  "privacy_exclusions": [
+    "meeting titles",
+    "participant names",
+    "conversation identifiers",
+    "private URLs",
+    "filenames",
+    "verbatim transcript text"
+  ],
+  "notes": [
+    "The manifest does not contain reliable meeting dates.",
+    "A meeting can support multiple opportunity themes, so theme counts are not additive."
+  ]
+}

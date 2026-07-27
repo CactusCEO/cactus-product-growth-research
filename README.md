@@ -3,6 +3,46 @@
 This public, redacted research package converts aggregate customer conversations and
 Cactus product analytics into an outcome-based product strategy and roadmap.
 
+## Use as an AI context skill
+
+This repository is built for both Codex and Claude Code.
+
+### Use after cloning
+
+- **Codex:** open the cloned repository. `AGENTS.md` routes Cactus product work to the
+  bundled context skill.
+- **Claude Code:** start `claude` in the repository and invoke
+  `/cactus-product-context`. Claude Code discovers the project skill under
+  `.claude/skills/`.
+
+### Install in Codex
+
+Ask Codex:
+
+> Install the skill from
+> `https://github.com/CactusCEO/cactus-product-growth-research/tree/main/.claude/skills/cactus-product-context`
+
+Then invoke it as `$cactus-product-context`.
+
+### Install in Claude Code
+
+Copy `.claude/skills/cactus-product-context/` into
+`~/.claude/skills/cactus-product-context/`, or keep it project-scoped by cloning this
+repository. Invoke it as `/cactus-product-context`.
+
+The installed skill contains a self-contained evidence snapshot, compact references,
+and deterministic query/validation scripts. It does not need to load the PDFs.
+
+Example prompts:
+
+Use `$cactus-product-context` in Codex or `/cactus-product-context` in Claude Code,
+followed by prompts such as:
+
+- `Write the Guided Evaluation PRD and telemetry spec.`
+- `Evaluate this Model Studio architecture proposal.`
+- `Turn the Trust Center decision gate into implementation tickets.`
+- `Compare Cactus 1.0 and 2.0 screening behavior.`
+
 ## Read the complete report
 
 - [Download the combined 38-page PDF](pdf/cactus-product-growth-research-packet-2026-07-27.pdf)

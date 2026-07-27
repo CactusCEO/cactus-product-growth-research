@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cactus Product Context"
+  short_description: "Cactus strategy, evidence, and roadmap context"
+  default_prompt: "Use $cactus-product-context to evaluate this product decision against customer evidence, Cactus 1.0/2.0 behavior, and the revenue roadmap."
