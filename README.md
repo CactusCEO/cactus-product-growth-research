@@ -42,6 +42,21 @@ followed by prompts such as:
 - `Evaluate this Model Studio architecture proposal.`
 - `Turn the Trust Center decision gate into implementation tickets.`
 - `Compare Cactus 1.0 and 2.0 screening behavior.`
+- `Turn the Deal Vault and shortcut direction into a four-week implementation plan.`
+- `Evaluate whether a requested MCP tool should be built now or validated through exports first.`
+
+## Vault, shortcuts, and MCP direction
+
+The repository now includes the product-direction refinement discussed on
+2026-07-27:
+
+- [Read the original Vault and MCP concept](docs/vault-and-mcp-concept.md).
+- [Read the evidence-grounded Vault and shortcuts decision](docs/vault-and-shortcuts-decision.md).
+
+The current direction is to make shortcuts the user-facing product and the Vault
+the persistent, evidence-backed context layer. Guided Evaluation becomes the first
+Vault-and-shortcut journey. A production MCP server remains later-stage work until
+scoped exports demonstrate repeated external-AI demand.
 
 ## Read the complete report
 
@@ -55,6 +70,7 @@ followed by prompts such as:
 | PostHog product evidence | [Read](docs/cactus-posthog-product-evidence.md) | [Download](pdf/cactus-posthog-product-evidence.pdf) |
 | Product opportunity portfolio | [Read](docs/cactus-product-opportunity-portfolio.md) | [Download](pdf/cactus-product-opportunity-portfolio.pdf) |
 | Growth and revenue roadmap | [Read](docs/cactus-growth-revenue-roadmap.md) | [Download](pdf/cactus-growth-revenue-roadmap.pdf) |
+| Vault and shortcuts product direction | [Read](docs/vault-and-shortcuts-decision.md) | Not yet generated |
 
 ## Developer data package
 

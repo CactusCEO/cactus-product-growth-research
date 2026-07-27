@@ -1,6 +1,6 @@
 ---
 name: cactus-product-context
-description: Ground Cactus product, design, engineering, go-to-market, onboarding, analytics, roadmap, PRD, prioritization, and ticket decisions in the validated customer-transcript evidence and Cactus 1.0/2.0 PostHog snapshot. Use for any Cactus feature proposal, UX flow, implementation plan, instrumentation spec, architecture tradeoff, revenue-impact assessment, migration question, or request to explain what customers need and what the team should build next.
+description: Ground Cactus product, design, engineering, go-to-market, onboarding, analytics, roadmap, PRD, prioritization, Vault, shortcut, Sage, and MCP decisions in validated customer-transcript evidence and the Cactus 1.0/2.0 PostHog snapshot. Use for any Cactus feature proposal, UX flow, implementation plan, instrumentation spec, architecture tradeoff, revenue-impact assessment, migration question, Vault or external-AI context proposal, or request to explain what customers need and what the team should build next.
 ---
 
 # Cactus Product Context
@@ -19,6 +19,8 @@ Resolve every relative resource path below against the directory containing this
    - Quantitative or customer-evidence claims: `references/evidence-baselines.md`.
    - Priority, scope, dependency, or sequencing questions:
      `references/roadmap-and-gates.md`.
+   - Vault, shortcuts, Sage, proprietary memory, or MCP questions:
+     `references/vault-and-shortcuts.md`.
    - Analytics implementation, schemas, or source access:
      `references/data-map.md`.
 4. For initiative-specific work, run:
@@ -67,6 +69,17 @@ Distinguish two rankings:
 
 The lists differ because measurement, activation, trust, and shared platform
 dependencies must unlock the higher-ACV bets.
+
+For Vault and shortcut work, preserve this product framing:
+
+- Shortcuts are the outcome-oriented product surface.
+- The Vault is the persistent, evidence-backed memory layer.
+- Sage guides and explains; it must not silently change material facts or models.
+- Guided Evaluation is the onboarding path into the first complete Vault and
+  shortcut loop.
+- Validate scoped exports before building a production MCP server.
+- With one developer and four weeks, prefer one Deal Vault entity and three bounded
+  shortcuts over a general-purpose platform.
 
 ## Output contract
 
