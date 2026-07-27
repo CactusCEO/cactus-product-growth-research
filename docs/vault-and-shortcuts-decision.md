@@ -1,7 +1,9 @@
 # Cactus Vault and Shortcuts Product Direction
 
-**Decision date:** 2026-07-27  
-**Status:** Working product direction and four-week validation plan  
+**Decision date:** 2026-07-27
+
+**Status:** Working product direction and four-week validation plan
+
 **Source context:** The Vault and MCP concept, Cactus 1.0 and Cactus 2.0
 PostHog baselines, aggregate external-call transcript evidence, and the product
 strategy conversation summarized below.
