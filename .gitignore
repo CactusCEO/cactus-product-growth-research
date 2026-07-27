@@ -1,0 +1,11 @@
+# Never commit secured customer or person-level source data to this public repository.
+data/raw/
+data/private/
+data/sybill_raw/
+data/posthog_event_exports/
+
+# Never commit local credentials or environment files.
+.env
+.env.*
+*.pem
+*.key

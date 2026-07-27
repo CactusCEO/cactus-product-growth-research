@@ -1,0 +1,56 @@
+{
+  "snapshot_date": "2026-07-27",
+  "datasets": [
+    {
+      "path": "posthog/posthog_metrics_aggregate.csv",
+      "grain": "one row per validated aggregate metric",
+      "contains_pii": false,
+      "source": "Cactus 1.0 and Cactus 2.0 PostHog snapshots"
+    },
+    {
+      "path": "posthog/metric_definitions.csv",
+      "grain": "one row per metric definition",
+      "contains_pii": false,
+      "source": "Reviewed analysis methodology"
+    },
+    {
+      "path": "transcripts/transcript_corpus_summary.json",
+      "grain": "one corpus summary",
+      "contains_pii": false,
+      "source": "Redacted Sybill export manifest"
+    },
+    {
+      "path": "transcripts/opportunity_theme_counts.csv",
+      "grain": "one row per prioritized opportunity",
+      "contains_pii": false,
+      "source": "Meeting-level theme analysis across 946 transcripts"
+    },
+    {
+      "path": "transcripts/curated_signal_summary.csv",
+      "grain": "one row per opportunity and signal in the 30-item traceability sample",
+      "contains_pii": false,
+      "source": "Redacted aggregate of curated evidence index"
+    },
+    {
+      "path": "prioritization/priority_scorecard.csv",
+      "grain": "one row per prioritized opportunity",
+      "contains_pii": false,
+      "source": "Integrated transcript and PostHog scoring"
+    },
+    {
+      "path": "prioritization/growth_revenue_roadmap.csv",
+      "grain": "one row per roadmap initiative or enabler",
+      "contains_pii": false,
+      "source": "Growth and revenue product plan"
+    }
+  ],
+  "not_included": [
+    "raw transcript text",
+    "participant names",
+    "meeting titles",
+    "Sybill IDs or URLs",
+    "event-level PostHog data",
+    "person or account properties",
+    "authenticated PostHog URLs"
+  ]
+}

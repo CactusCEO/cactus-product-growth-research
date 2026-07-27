@@ -1,0 +1,11 @@
+business_impact_rank,initiative,theme,total_transcripts,matching_meetings,matching_meetings_pct,explicit_signal_meetings,explicit_signal_meetings_pct,post_sale_or_working_sessions,transcript_evidence_confidence_1_5
+1,Trust Center 2.0 — Exception-First Document Review,Defensible underwriting,946,353,37.3,276,29.2,59,5
+2,Market Intelligence — Evidence-Backed Comps and Memory,Differentiation and repeat usage,946,433,45.8,266,28.1,69,5
+3,Instant Deal Screen — Intake-to-Go/No-Go,Throughput and daily habit,946,182,19.2,99,10.5,44,5
+4,Model Studio — Formula-Aware Excel Roundtrip,Workflow fit and enterprise conversion,946,289,30.5,184,19.5,40,5
+5,Guided Activation — First Defensible Deal,Trial conversion and adoption,946,509,53.8,453,47.9,115,5
+6,Scenario Lab — Conversational Sensitivity With Controls,Decision quality and engagement,946,344,36.4,216,22.8,72,4
+7,"Enterprise Workflow — Integrations, Roles, and Governance",Enterprise revenue,946,329,34.8,213,22.5,53,4
+8,"Development Underwriter — Cost, Draw, and Stabilization",Segment expansion,946,242,25.6,149,15.8,55,4
+9,"Decision Packages — Source-Linked IC, Lender, and Client Outputs",Workflow completion and sharing,946,136,14.4,79,8.4,28,4
+10,Commercial Lease Intelligence — Multi-Tenant Underwriting,New asset-class revenue,946,56,5.9,31,3.3,7,4
